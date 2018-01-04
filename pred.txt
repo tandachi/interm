@@ -1,0 +1,7 @@
+plt.scatter(x1, x2)
+pd.scatter_matrix(df)
+df.corr(), plt.matshow(...)
+df.mean().sort_values().plot(style='.')
+
+
+data-splitting - time-based trend
